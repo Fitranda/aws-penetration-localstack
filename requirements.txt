@@ -1,0 +1,74 @@
+# Requirements untuk AWS Penetration Testing Lab
+# Install dengan: pip install -r requirements.txt
+
+# Core AWS libraries
+boto3>=1.34.0
+botocore>=1.34.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Command line utilities
+click>=8.1.0
+colorama>=0.4.6
+
+# Security analysis tools
+bandit>=1.7.5
+safety>=2.3.0
+
+# Network utilities
+scapy>=2.5.0
+netaddr>=0.9.0
+
+# Web testing
+urllib3>=2.0.0
+
+# JSON manipulation
+jsonpath-ng>=1.6.0
+
+# Date/time utilities
+python-dateutil>=2.8.2
+
+# Cryptography
+cryptography>=41.0.0
+pycryptodome>=3.19.0
+
+# Terminal colors and formatting
+termcolor>=2.3.0
+rich>=13.7.0
+
+# YAML processing
+PyYAML>=6.0.1
+
+# Template processing
+Jinja2>=3.1.2
+
+# Fuzzing utilities
+hypothesis>=6.88.0
+
+# Network scanning (optional)
+python-nmap>=0.7.1
+
+# JWT manipulation
+PyJWT>=2.8.0
+
+# Database utilities
+sqlparse>=0.4.4
+
+# File type detection
+python-magic>=0.4.27
+
+# Progress bars
+tqdm>=4.66.0
+
+# Configuration files
+configparser>=6.0.0
+
+# Base64 utilities
+pybase64>=1.3.2
+
+# XML processing
+lxml>=4.9.3
+
+# Regular expressions
+regex>=2023.10.3
